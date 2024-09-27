@@ -1,2 +1,2 @@
-# Created a ATM MACHINE Using Java 
-and using OOPS , CLASS AND OBJECTS
+# Created a ATM MACHINE Using JAVA 
+and using OOPS , CLASSES AND OBJECTS
